@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi there, I'm Abdelmoumen 👨‍💻
 
 <!--
-**AAOUMAHI/AAOUMAHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Double Master's graduate in Data Science and Business Economics 📚. I'm passionate about data exploration, machine learning, and leveraging technology for positive business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Recently graduated, I bring a strong academic foundation and practical experience to the table. I'm eager to merge my analytical skills with my economic background to tackle complex problems and make informed decisions.
+
+🚀 My expertise spans data analysis, predictive modeling, and data visualization. I'm actively seeking new challenges and opportunities to apply my skills in innovative ways.
+
+📬 Get in Touch
+Have questions, suggestions, or interested in collaboration? 
+
+📧 abdelmoumen.oumahi@gmail.com
+
